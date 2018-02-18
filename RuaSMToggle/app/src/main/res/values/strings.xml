@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rua SM Toggle</string>
+    <string name="toggle_silent_mode">Toggle Silent Mode</string>
+</resources>
