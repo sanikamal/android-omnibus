@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context="com.ruatech.sanikamal.relativelayoutexample.MainActivity">
+
+    <!--TextView for displaying SIGN IN text at top of UI-->
+
+    <TextView
+        android:id="@+id/signInTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/holo_red_dark"
+        android:text="SIGN IN" />
+<!--TextView for displaying User Name-->
+    <TextView
+        android:id="@+id/userNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="110dp"
+        android:text="UserName:"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="25sp"/>
+    <!--TextView for displaying password-->
+    <TextView
+        android:id="@+id/passwordTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_below="@+id/userNameTextView"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="25sp"
+        android:text="Password:" />
+<!--EditText for filling user name-->
+    <EditText
+        android:id="@+id/userNameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_toRightOf="@id/userNameTextView"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="110dp"
+        android:hint="User Name"/>
+<!--EditText for filling password-->
+    <EditText
+        android:id="@+id/passEditText"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/userNameEditText"
+        android:layout_toRightOf="@id/passwordTextView"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="16dp"
+        android:hint="Password"/>
+<!--Button for clicking after filling details-->
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/passwordTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:background="@android:color/holo_orange_light"
+        android:text="Button" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-core-2.2.1_9759535fab9e19b26765d8e7ec714179982bacf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.1_aa4a54eaa0d1b5d5f4a18b7ff7eeb84f812b5654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_04a4156a08c5809786d1980b5fd40a26795abd90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_f0eb178b6680d522777c61e33f421dc0628a3066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f607369e68cb756b3f8f523403e3d80433a68aa1">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-runner-0.4.1_0530055d4f9e36db685e3106eb16da1c3c49827f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e1d90a3498ab7a4b68ea6e936e71cf7f4e95453f">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-exposed-instrumentation-api-publish-0.4.1_4349240cf82d0043d6917811137b2f6bf9675a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_9df840a0cd2060907109f572cbba85e3c4de2c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_66e1c8a8fde161ca638d4a109484bf43e8a5bc60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_7e123a2591c593b32fd97a747f73017eea497139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_75fc8a71262046e71d2a116b1ef2686f7c624604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_e6ab4eb1e0569fce330a5d162c089aa234a258a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_7a22aed2069f0572985c5ce74b063bc7e1d1ee7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_894949ca7d8b0e21504b4ca0a0881407ca8b147f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_c2ee953c22035b374b26b78691de6658bbe2aebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_4d9ef83a958c89e5c450cafb3f88b9c916db7dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_eda7a02f10689f995e30051773d975925de3007f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_e25063d4c9b2b1a681447be111d53ef568e3923a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_122aab88d37f012934cb28301521f971238f4fd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test.uiautomator\uiautomator-v18\2.1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ebd18603c0013727799e7ed41bcb42f3df75c0">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.uiautomator-uiautomator-v18-2.1.2_3a244b19752c9acb95ddd7c374f76df26cd50904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\TimeGreetFriend\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-rules-0.4.1_e4901b560b5a8bfb5ba6d384bb9e4c025ea51606.jar" />
+    </item>
+
+</items>

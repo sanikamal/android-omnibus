@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b092a3de958d2d6d954a647397fabc968a9564d7">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2b88983bd9e6736c6497f4a05e8c71f3743b6734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e01c35f9e58e939e2604da23f532617f639a07d1">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_adf164bea61d937411f6e836177022508fb603bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9d4c7348b1b007c7b1a2f4600b9a5e559e00661e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\THINKSONU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_e6ab4eb1e0569fce330a5d162c089aa234a258a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_4db30bb0a5190588e45410dce4803870a36e5a4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_bdf400b41cb6cf0d982e424f82817df7861b294f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f2520e5a569c0c2ea238ad032794295e9996cac4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\THINKSONU\AndroidStudioProjects\GreetFriend\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_55441ec3f314a8481914d24c129d0ec83c0469d0\classes.dex" />
+    </item>
+
+</items>

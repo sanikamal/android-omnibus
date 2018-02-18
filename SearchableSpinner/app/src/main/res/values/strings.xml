@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Searchable Spinner</string>
+    <string-array name="fruits_name">
+        <item>Select one Fruit</item>
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Blackcurrant</item>
+        <item>Blackberry</item>
+        <item>Blueberry</item>
+        <item>Cherry</item>
+        <item>Coconut</item>
+        <item>Fig</item>
+        <item>Grape</item>
+        <item>Kiwi(fruit)</item>
+        <item>Lemon</item>
+        <item>Lime</item>
+        <item>Lychee</item>
+        <item>Mango</item>
+        <item>Nectarine</item>
+        <item>Orange</item>
+        <item>Papaya</item>
+        <item>Passion Fruit</item>
+        <item>Peach</item>
+        <item>pear</item>
+        <item>Pineapple</item>
+        <item>Plum</item>
+        <item>Quince</item>
+        <item>Raspberry</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+
+    </string-array>
+</resources>

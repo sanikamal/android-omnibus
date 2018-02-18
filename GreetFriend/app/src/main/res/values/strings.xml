@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GreetFriend</string>
+    <string-array name="friends">
+        <item>Sanikamal Khan</item>
+        <item>Manash Parasar</item>
+        <item>Suresh Pradhan</item>
+        <item>Manash Borthakur</item>
+        <item>Chandan Borah</item>
+        <item>Mummi Dutta</item>
+        <item>Rituparna Gohain</item>
+        <item>Tridish Bora</item>
+        <item>Saddam Hussain</item>
+        <item>Adil Shah</item>
+        <item>Saidul Islam</item>
+    </string-array>
+</resources>
